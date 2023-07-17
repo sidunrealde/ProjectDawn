@@ -9,7 +9,7 @@ You need dependencies to make this package work.
 - I would need a VRM4U plugin to make the Vroid characters work. 
 - Some NPC Textures were not updated in the current build especially the animal pack you might need to redownload those assets.
 - In addition the following asset packs are not included.
---    Infinity blade/fx/bladeEffects/Assets/warriors
+    - Infinity blade/fx/bladeEffects/Assets/warriors
     b . Animal variety pack
     c . European Beech/Hornbeam
     d . LowPoly Viking World
