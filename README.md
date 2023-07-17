@@ -1,6 +1,6 @@
 # ProjectDawn
-ProjectDawn v0.0.1 Updated to UE5
-This is Project dawn build v0.0.1 
+- ProjectDawn v0.0.1 Updated to UE5
+- This is Project dawn build v0.0.1 
 You need dependencies to make this package work.
 1 . I have removed most of the Megascans assets I used. You can replace the assets in the blueprints.
 2 . I would need a VRM4U plugin to make the Vroid characters work. 
