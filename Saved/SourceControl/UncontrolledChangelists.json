@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_FallenTree.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_Rock.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_Rock_Large.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_ShorePlant.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_Large_Tree.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/M_Placeholder.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/PCGExamples/Assets/SM_Medium_Tree.uasset",
+				"C:/Users/sidgo/Documents/Unreal Projects/ProjectDawn_Git/Content/ProjectDawn/Characters/Heroes/Yoru/ABP_Yoru.uasset"
+			]
+		}
+	]
+}
