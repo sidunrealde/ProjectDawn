@@ -4,11 +4,12 @@
 This is Project dawn build v0.0.1 
 
 You need dependencies to make this package work.
-1 . I have removed most of the Megascans assets I used. You can replace the assets in the blueprints.
-2 . I would need a VRM4U plugin to make the Vroid characters work. 
-3 . Some NPC Textures were not updated in the current build especially the animal pack you might need to redownload those assets.
-4 . In addition the following asset packs are not included.
-    a . Infinity blade/fx/bladeEffects/Assets/warriors
+
+- I have removed most of the Megascans assets I used. You can replace the assets in the blueprints.
+- I would need a VRM4U plugin to make the Vroid characters work. 
+- Some NPC Textures were not updated in the current build especially the animal pack you might need to redownload those assets.
+- In addition the following asset packs are not included.
+--    Infinity blade/fx/bladeEffects/Assets/warriors
     b . Animal variety pack
     c . European Beech/Hornbeam
     d . LowPoly Viking World
