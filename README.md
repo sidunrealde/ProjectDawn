@@ -1,6 +1,8 @@
 # ProjectDawn
 - ProjectDawn v0.0.1 Updated to UE5
-- This is Project dawn build v0.0.1 
+
+This is Project dawn build v0.0.1 
+
 You need dependencies to make this package work.
 1 . I have removed most of the Megascans assets I used. You can replace the assets in the blueprints.
 2 . I would need a VRM4U plugin to make the Vroid characters work. 
@@ -14,7 +16,7 @@ You need dependencies to make this package work.
     f . Weapon Pack
     g . Stylized Winter City
 
-    These are the assets I have used Feel free to use any alternatives
+These are the assets I have used Feel free to use any alternatives
 5 . I havent Included all the sounds either replace where necessary.
 6 . Phys material needs to be rebuilt. Footstep sounds are generated using Phys material.
 7 . rVT is disabled by default you might need to go into the Master material to change that.
